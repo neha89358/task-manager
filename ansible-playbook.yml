@@ -4,9 +4,9 @@
   tasks:
     - name: Pull taskmanager_angular image
       docker_image:
-        name: raj3nikhil/taskmanager_angular
+        name: neha89358/taskmanager_angular
         source: pull
     - name: Pull taskmanager_express image
       docker_image:
-        name: raj3nikhil/taskmanager_express
+        name: neha89358/taskmanager_express
         source: pull
